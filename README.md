@@ -1,6 +1,6 @@
 # Digital Clock
 
-[cite_start]A clean, dynamic digital clock built with Vanilla JavaScript that tracks the user's local system time and updates live every second.
+A clean, dynamic digital clock built with Vanilla JavaScript that tracks the user's local system time and updates live every second.
 
 ## Live Demo
 
@@ -8,8 +8,8 @@
 
 ## Features
 
-- [cite_start]**Real-Time Updates:** The clock updates every second without requiring a page refresh.
-- [cite_start]**Accurate Data Formatting:** Single-digit values are strictly zero-padded (e.g., `09:05:03` instead of `9:5:3`).
+- **Real-Time Updates:** The clock updates every second without requiring a page refresh.
+- **Accurate Data Formatting:** Single-digit values are strictly zero-padded (e.g., `09:05:03` instead of `9:5:3`).
 
 ## Screenshots
 
@@ -17,7 +17,7 @@
 
 ## Tech Stack
 
-- [cite_start]**Frontend:** HTML5, CSS3, Vanilla JavaScript [cite: 214]
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript [cite: 214]
 
 ## Installation
 
@@ -38,6 +38,6 @@ Because this is a Vanilla JavaScript project without build tools, simply open in
 
 ## What I'd Improve With More Time
 
-- [cite_start]**Format Toggle:** Add a button to toggle between 12-hour and 24-hour formats.
-- [cite_start]**Date Display:** Display the current date alongside the active time.
-- [cite_start]**Advanced Animations:** Isolate each digit into its own hidden overflow container to build a mechanical, rolling-odometer transition effect using CSS transform: translateY.
+- **Format Toggle:** Add a button to toggle between 12-hour and 24-hour formats.
+- **Date Display:** Display the current date alongside the active time.
+- **Advanced Animations:** Isolate each digit into its own hidden overflow container to build a mechanical, rolling-odometer transition effect using CSS transform: translateY.
