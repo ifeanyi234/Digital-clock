@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-![Description](path/to/screenshot.png)
+![Description](screenshots/Screenshot.png)
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/ifeanyi234/Digital-clock.git>
    cd digital-clock
    ```
 
